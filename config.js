@@ -11,11 +11,11 @@ import moment from "moment-timezone"
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-    ["6282195322106"],
-    ["6282195322106", "️WudySoft - Owner", true]
+    ["6285380166282"],
+    ["6285380166282", "️Vinss - Owner", true]
 ]
-global.mods = ["6282195322106"]
-global.prems = ["6282195322106"]
+global.mods = ["6285380166282"]
+global.prems = ["6285380166282"]
 
 /*Website*/
 global.APIs = {
@@ -166,7 +166,7 @@ global.cmenua = "\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 global.packname = "𝗠𝗮𝗱𝗲 𝗕𝘆"
 global.stickpack = packname
-global.author = "𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁"
+global.author = "𝙈𝙖𝙭𝙭𝙮 乂 𝙑𝙞𝙣𝙨𝙨"
 global.stickauth = author + "\nwa.me/" + nomorbot
 global.multiplier = 69
 
